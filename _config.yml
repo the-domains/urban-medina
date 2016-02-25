@@ -1,7 +1,7 @@
 name: URBAN MEDINA
 favicon: null
-layout_spectrum: 0.10718544153496623
-typography_spectrum: 0.5136739667505026
+layout_spectrum: 0.88235
+typography_spectrum: 0.1475
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.35605131299234927
-  lightness: 0.21900816191919148
-  saturation: 0.7792190220206976
-  rhythmicContrast: 0.4799086027778685
+    - '#fcfffd'
+    - '#84776f'
+    - '#46494e'
+    - '#8bcff6'
+    - '#c9bea8'
+  brandStrength: 0.4375
+  lightness: 0.625
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
